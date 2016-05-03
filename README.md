@@ -1,4 +1,4 @@
 # hello-word
 My first repository
 
-Ｉ　ａｍ　ｔｒｙｉｎｇ　ｔｏ　ｌｅａｒｎ　ｊａｖａｓｒｃｉｐｔ．
+I am trying to learn javasript. i hava learnt somthing about html,css,javascript,jquery,dom,ajax,json.
